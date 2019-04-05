@@ -10,5 +10,6 @@ It consist of two steps:
   I also add a custom world design that can be downloaded from "https://github.com/zvatansever/Gazebo-office-model.git"
 
 2) ball_chaser (to-do update the white ball localization from image pixels)
+
    We need to use the camera subscribe to publisher "/camera/rgb/image_raw" to stream the camera image. 
    Once the camera sees the white ball, it starts following it, interested reader can find implementation details in process_image.cpp
