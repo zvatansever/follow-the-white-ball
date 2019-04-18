@@ -1,7 +1,7 @@
 # Follow the white ball on ROS
-# In this project, the goal is to follow a white ball using the images obtained from the camera on a mobile robot. 
+### In this project, the goal is to follow a white ball using the images obtained from the camera on a mobile robot. 
 
-# It consist of two steps: 
+### It consist of two steps: 
 ```sh
 1) my_robot
 
